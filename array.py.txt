@@ -19,4 +19,7 @@ print("Type of elements in array:", element_type)
 
 b=np.array([1,2,3,4])
 
+# 5. new data to be pulled
+
+c=np.array([1,1,2,3,5,8])
 

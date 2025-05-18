@@ -15,4 +15,8 @@ element_type = array.dtype
 
 print("Type of elements in array:", element_type)
 
+# 4. new array b
+
+b=np.array([1,2,3,4])
+
 

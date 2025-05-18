@@ -23,3 +23,7 @@ b=np.array([1,2,3,4])
 
 c=np.array([1,1,2,3,5,8])
 
+# 6. pull request trial
+
+d=np.array([9,8,7,6,5])
+
